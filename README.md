@@ -11,6 +11,12 @@ Good kinda of pancakes:
 *Dorayaki
 *Silver Dollars
 *Injera
+Ranked pancakes:
+1. Injera
+2. Doriyaki
+3. Banana Pancakes
+
 Here's more and more text.
 ##Here is yet another header. 
+
 
