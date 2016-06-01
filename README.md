@@ -7,10 +7,11 @@ What does **two stars do** vs *one star*?
 Maybe we can [add a link](http://www.google.com)
 ##What does this do
 Good kinda of pancakes:
-*Okonomiyaki
-*Dorayaki
-*Silver Dollars
-*Injera
+* Okonomiyaki
+* Dorayaki
+* Silver Dollars
+* Injera
+
 Ranked pancakes:
 1. Injera
 2. Doriyaki
