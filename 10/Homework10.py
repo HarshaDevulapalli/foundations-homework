@@ -15,9 +15,9 @@ cold_limit = 68
 
 if high_temp > hot_limit:
     temp_feeling = "Slightly Hot"
-if high_temp > cold_limit and high_limit < hot_threshold:
+if high_temp > cold_limit and high_limit < hot_limit:
     temp_feeling = "Just about Perfect"
-if high_temp < cold_threshold:
+if high_temp < cold_limit:
     temp_feeling = "Cool"
 
 rain_probability = daily_weather[0]['precipProbability']
